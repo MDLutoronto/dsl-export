@@ -6,6 +6,9 @@ created_date: 2022-03-10
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 permalink: "/"  #! Remove this if not the homepage
 ---
 
