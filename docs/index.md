@@ -77,5 +77,3 @@ You can download the metadata for up to 10 000 documents in your collection. You
 That's it! You can now export data, visualizations, and both raw and cleaned text files from the*Digital Scholar Lab.*
 
 [Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
-
-Technique: [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
