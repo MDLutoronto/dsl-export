@@ -78,4 +78,4 @@ That's it! You can now export data, visualizations, and both raw and cleaned tex
 
 [Return to the main Gale Digital Scholar Lab tutorial](https://mdl.library.utoronto.ca/technology/tutorials/digital-humanities-tools-digital-scholar-lab)
 
-Technique: [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [Digital Scholar Lab](https://mdl.library.utoronto.ca/tools/digital-scholar-lab-0)
+Technique: [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | Tools: [Digital Scholar Lab](https://mdlutoronto.github.io/tutorials-search/?tool=Digital+Scholar+Lab)
